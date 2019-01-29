@@ -1,11 +1,13 @@
 ![HaitianFoodMenu](public/HaitianFoodMenuMaster.png)
+![HaitianFoodMenu](public/h1.png)
+
 
 # My Awesome Project
-A platform for Photographers to provide their services.
+A Haitian Food Cuisine Menu .
 
 
 ## How It's Made:
-This application is made with HTML, CSS, JavaScript, J-Query, & Node.JS.
+This application is made with React.
 
 ## Installation
 
