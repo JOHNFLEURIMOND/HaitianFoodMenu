@@ -1,10 +1,10 @@
 // This is just some sample data so you don't have to think of your own!
 const fishes = {
   fish1: {
-    name: "Pacific Halibut",
+    name: "Red Snapper",
     image: "/images/hali.jpg",
     desc:
-      "Everyones favorite white fish. We will cut it to the size you need and ship it.",
+      "Red snapper is a very popular fish; especially in the Caribbean.Red snapper is one of Haitians’ favorite fish for its beautiful color and delicious taste. They are either boiled with parsley, hot pepper, black pepper, and shallots, stewed, fried, grilled or baked.",
     price: 1724,
     status: "available"
   },
@@ -22,16 +22,16 @@ const fishes = {
     name: "Sea Scallops",
     image: "/images/scallops.jpg",
     desc:
-      "Big, sweet and tender. True dry-pack scallops from the icey waters of Alaska. About 8-10 per pound",
+      "",
     price: 1684,
     status: "unavailable"
   },
 
   fish4: {
-    name: "Mahi Mahi",
+    name: "Griyo",
     image: "/images/mahi.jpg",
     desc:
-      "Lean flesh with a mild, sweet flavor profile, moderately firm texture and large, moist flakes. ",
+      "Fritay the most iconic Haitian dish usually includes: Griyo or Griot (fried pork shoulder), Tasso bèf (fried beef), Tasso kabrit (fried goat), Sosis (fried sausage), Akra (fried malanga fritters), Banann peze (fried green plantains), Marinad (fritter that is mainly flour and spices, you can add chicken, salt-fish, smoked herring or no meat at all.)",
     price: 1129,
     status: "available"
   },
