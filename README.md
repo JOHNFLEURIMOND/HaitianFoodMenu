@@ -4,9 +4,10 @@
 
 # My Awesome Project
 A Haitian Food Cuisine Menu .
-Update an Order, update the fish on the Menu, update the Inventory and even change stores while having the ability to store the data that was already entered in a different store!
+Update an Order, update the food on the Menu, update the Inventory and even change stores while having the ability to store the data that was already entered in a different store!
 REACT is awesome!!!!
-I learned to use keys to store values in localStorage, and new ES6 syntax/magic in order to cut down on code when retrieving the value from an input!
+
+I learned to use keys to store values in localStorage, state, dynamic props, React Router,  and new ES6 syntax/magic in order to cut down on code when retrieving the value from an input!
 
 
 ## How It's Made:
