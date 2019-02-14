@@ -40,6 +40,7 @@
     "lint": "eslint .",
     "heroku-postbuild": "echo Skip build on Heroku"
   },
+"heroku-run-build-script": true,
   "browserslist": [
     ">0.2%",
     "not dead",
