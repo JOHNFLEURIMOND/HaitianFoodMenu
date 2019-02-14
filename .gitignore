@@ -1,7 +1,4 @@
 #.gitignore
-src/*
-public/*
-build/static/css/*.map
 build/static/js/*.map
 
 # dependencies
@@ -24,3 +21,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 node_modules
+src/*
+build/static/js/*.map
+public/*
+build/static/css/*.map
+build/static/js/*.map

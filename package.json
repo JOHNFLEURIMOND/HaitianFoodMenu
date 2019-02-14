@@ -32,6 +32,7 @@
   },
   "scripts": {
     "start": "node src/server.js",
+    "postinstall": "npm run build",
     "build": "react-scripts build",
     "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"",
     "eject": "react-scripts eject",
