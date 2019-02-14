@@ -31,15 +31,15 @@
     "stylus": "0.54.5"
   },
   "scripts": {
-    "start": "node src/server.js",
-    "build": "react-scripts build",
-    "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"\"heroku-postbuild\"",
-    "eject": "react-scripts eject",
-    "styles": "stylus -u autoprefixer-stylus ./src/css/style.styl -o ./src/css/style.css",
-    "styles:watch": "stylus -u autoprefixer-stylus -w ./src/css/style.styl -o ./src/css/style.css",
-    "lint": "eslint .",
-    "heroku-postbuild": "echo Skip build on Heroku"
-  },
+     "start": "node src/server.js",
+     "build": "react-scripts build",
+     "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"\"heroku-postbuild\"",
+     "eject": "react-scripts eject",
+     "styles": "stylus -u autoprefixer-stylus ./src/css/style.styl -o ./src/css/style.css",
+     "styles:watch": "stylus -u autoprefixer-stylus -w ./src/css/style.styl -o ./src/css/style.css",
+     "lint": "eslint .",
+     "heroku-postbuild": "echo Skip build on Heroku"
+   },
   "browserslist": [
     ">0.2%",
     "not dead",
