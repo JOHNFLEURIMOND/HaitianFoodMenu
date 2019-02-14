@@ -10,7 +10,7 @@ REACT is awesome!!!!
 
 I learned to use keys to store values in localStorage, state, dynamic props, React Router,  and new ES6 syntax/magic in order to cut down on code when retrieving the value from an input!
 
-And got this running on Heroku, that was a big plus!
+And got this running on Heroku, that was a big plus!!!!
 
 
 ## How It's Made:
