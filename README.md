@@ -14,7 +14,7 @@ And got this running on Heroku, that was a big plus!
 
 
 ## How It's Made:
-This application is made with React.
+This application is made with React and deployed on Heroku.
 
 ## Installation
 
