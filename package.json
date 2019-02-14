@@ -31,7 +31,8 @@
     "stylus": "0.54.5"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node src/server.js",
+    "build": "react-scripts build",
     "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"",
     "eject": "react-scripts eject",
     "styles": "stylus -u autoprefixer-stylus ./src/css/style.styl -o ./src/css/style.css",
